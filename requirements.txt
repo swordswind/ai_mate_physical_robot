@@ -1,3 +1,4 @@
+deepface
 mediapipe
 opencv-python
 ultralytics
