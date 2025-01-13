@@ -2,5 +2,6 @@ deepface
 mediapipe
 ollama
 opencv-python
+pygame
 requests
 ultralytics
